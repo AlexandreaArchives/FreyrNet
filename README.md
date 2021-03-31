@@ -11,6 +11,8 @@
 - Engineering Spathion : Extremes and Exponentials 
 - Token Engineerng  - Fractions
 - Token Engineering - Interactions
-- Payments
-- Streaming
-- 
+- Token Engineering - Collectibles
+- Token Engineering - Curves
+- Integrations : Superfluid for Payments
+- Integrations : Covalent for Trusted Execution
+
