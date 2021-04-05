@@ -8,8 +8,20 @@
 - Elements of Spathion : Finesse 
 - Elements of Spathion : Fairness
 
+History of Money Markets
+History of Debt Markets
+History of Invoice Financing
+Emergence of Invoice Discounting
+Invoice Discounting - Centralised Approaches
+Invoice Discounting - Decentralised Approaches
+Invoice Discounting - Non Fungiblity Aspects
+Invoice Discounting - Time Bounded Aspects
+Invoice Discounting - Yield Aggregation Aspects
+Invoice Discounting - Incentive Alignment
+Clearning & Settlement - Hash Time Locked Contracts
+Invoice Insurance - Claims, Underwriting and Settlement
+
 ## Elements
-Engineering Spathion : Extremes and Exponentials 
 - Token Engineerng  - Fractional NFT
 - Token Engineering - Interactive NFT
 - Token Engineering - Collective NFT
@@ -19,7 +31,6 @@ Engineering Spathion : Extremes and Exponentials
 - Governance Engineering - Multi Signature Wallet
 
 ## Integrations
-Spathion Secure Streaming Network
 - Integrations : Superfluid for Streaming
 - Integrations : Zether for Security
 - Integrations : SKALE for Asynchrnous Payments
