@@ -7,7 +7,7 @@
 - Elements of Spathion : Selflessness 
 - Elements of Spathion : Finesse 
 - Elements of Spathion : Fairness
--
+
 ## Elements
 Engineering Spathion : Extremes and Exponentials 
 - Token Engineerng  - Fractional NFT
