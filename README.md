@@ -49,6 +49,12 @@ Cross Chain Collective Swap
 - Ethereum - NEAR
 - Binance - Matic
 
+## References
+- https://invoicetra.com/history-of-invoicing/
+- https://debitoor.com/blog/invoicing-and-accounting-a-journey-through-history
+- https://hub.tradeshift.com/accounts-payable/what-is-an-invoice-a-brief-history-of-the-invoice
+- https://www.slideshare.net/tradeshift/what-is-an-invoice-a-quick-jaunt-through-the-history-of-invoices
+
 
 
 
