@@ -1,6 +1,6 @@
 # Whitepaper
 
-## Structure 
+## Vision 
 - Genesis of Spathion Network
 - Genesis of Spathion Vision
 - Elements of Spathion : Sharpness
@@ -8,20 +8,21 @@
 - Elements of Spathion : Finesse 
 - Elements of Spathion : Fairness
 
-History of Money Markets
-History of Debt Markets
-History of Invoice Financing
-Emergence of Invoice Discounting
-Invoice Discounting - Centralised Approaches
-Invoice Discounting - Decentralised Approaches
-Invoice Discounting - Non Fungiblity Aspects
-Invoice Discounting - Time Bounded Aspects
-Invoice Discounting - Yield Aggregation Aspects
-Invoice Discounting - Incentive Alignment
-Clearning & Settlement - Hash Time Locked Contracts
-Invoice Insurance - Claims, Underwriting and Settlement
+## Architecture
+- History of Money Markets
+- History of Debt Markets
+- History of Invoice Financing
+- Emergence of Invoice Discounting
+- Invoice Discounting - Centralised Approaches
+- Invoice Discounting - Decentralised Approaches
+- Invoice Discounting - Non Fungiblity Aspects
+- Invoice Discounting - Time Bounded Aspects
+- Invoice Discounting - Yield Aggregation Aspects
+-Invoice Discounting - Incentive Alignment
+- Clearning & Settlement - Hash Time Locked Contracts
+- Invoice Insurance - Claims, Underwriting and Settlement
 
-## Elements
+## Concepts
 - Token Engineerng  - Fractional NFT
 - Token Engineering - Interactive NFT
 - Token Engineering - Collective NFT
