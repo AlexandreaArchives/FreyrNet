@@ -1,5 +1,7 @@
 # Whitepaper
 
+Spathion is the Symbiosis of Social Transformation Perspectives embedded in the dynamics of decentralised finance and distibuted ledger technologies. 
+
 ## Vision 
 - Genesis of Spathion Network
 - Genesis of Spathion Society
