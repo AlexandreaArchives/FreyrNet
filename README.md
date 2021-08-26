@@ -1,9 +1,8 @@
-# Whitepaper
+# Inception
 
 FreyrNet is the Fizzog of Finite State Machines and Recurrent Reflexive Finance. 
 
-## Vision 
-
+## Elements 
 - Elements : Sharpness
 - Elements : Selflessness 
 - Elements : Succinctness
@@ -12,7 +11,7 @@ FreyrNet is the Fizzog of Finite State Machines and Recurrent Reflexive Finance.
 - Elements : Frontiers
 - Elements : Facade
 
-## Architecture
+## Context
 - History of Book Keeping
 - Invoice Factoring - Centralised Approaches
 - Invoice Factoring - Decentralised Approaches
@@ -32,7 +31,7 @@ FreyrNet is the Fizzog of Finite State Machines and Recurrent Reflexive Finance.
 - Governance Engineering - Quadratic Voting
 - Governance Engineering - Multi Signature Wallet
 
-## Integrations
+## Constructs
 - Integrations : Superfluid for Streaming
 - Integrations : Zether for Security
 - Integrations : SKALE for Asynchrnous Payments
@@ -41,11 +40,9 @@ FreyrNet is the Fizzog of Finite State Machines and Recurrent Reflexive Finance.
 - Integrations : Polygon Network for Scability
 - Integrations : Binance Network of Liquidity
 
-## Interoperability 
-Cross Chain Collective Swap
+## Conjugations 
+- Cross Chain Collective Swap
 - Cosmos - Polkadot 
 - Ethereum - Harmony
 - Ethereum - NEAR
 - Binance - Matic
-
-## References
