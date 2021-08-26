@@ -1,6 +1,6 @@
 # Whitepaper
 
-Spathion is the Symbiosis of Social Transformation Perspectives embedded in the dynamics of decentralised finance and distibuted ledger technologies. 
+FreyrNet is the Fizzog of Finite State Machines and Recurrent Reflexive Finance. 
 
 ## Vision 
 
